@@ -1,0 +1,4 @@
+**/ignoreDir/
+build/
+*.out
+**/user-config.json

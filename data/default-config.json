@@ -1,0 +1,15 @@
+{
+	"uname": "uname",
+	"server-list": [
+		"bowser",
+		"daisy",
+		"mario",
+		"yoshi",
+		"wario",
+		"kamek",
+		"koopa",
+		"luigi",
+		"toad"
+	],
+	"base-URL": ".ece.utexas.edu"
+}
